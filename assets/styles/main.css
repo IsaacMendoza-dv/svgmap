@@ -1,3 +1,4 @@
-polygon#tabasco {
-  fill: green !important;
+.estado {
+  fill: lightgray;
+  stroke: white;
 }
