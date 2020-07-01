@@ -2,3 +2,7 @@
   fill: lightgray;
   stroke: white;
 }
+.container{
+  margin-top: 10vh;
+  padding: 5rem;
+}
