@@ -10,3 +10,33 @@
   fill:#82c472;
   stroke: lightgray;
 }
+  /* MAPS */
+#dosmil{
+    display:show; 
+}
+  #dosmil-17{
+  display:none; 
+}
+#dosmil-18{
+  display:none; 
+}
+#dosmil-19{
+  display:none; 
+}
+#dosmil-20{
+  display:none; 
+}
+  /* BUTTON EFFECTS */
+  #btnGroupDrop1{
+    background-color: #82c472;
+    border-color: azure;
+    color: white;
+  }
+
+  #btnGroupDrop1:hover{
+  background-color: azure;
+  border-color: #82c472;
+  color: black;
+  transition: 0.1s;
+}
+
