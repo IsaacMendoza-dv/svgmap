@@ -6,24 +6,49 @@
   margin-top: 10vh;
   padding: 5rem;
 }
-.estado:hover{
+/* .estado:hover{
+  fill:#82c472;
+  stroke: lightgray;
+} */
+
+
+/* CUESTIONARIOS */
+
+.classQ1{
+  fill: #C4D4A4;
+}
+
+.classQ1:hover{
   fill:#82c472;
   stroke: lightgray;
 }
+
+
+.classQ2{
+  fill: #9BAE88;
+}
+.classQ2:hover{
+  fill:#82c472;
+  stroke: lightgray;
+}
+
+
+
+
   /* MAPS */
-#dosmil{
+#dosmil-20{
     display:show; 
 }
-  #dosmil-17{
+  #dosmil-21{
   display:none; 
 }
-#dosmil-18{
+#dosmil-22{
   display:none; 
 }
-#dosmil-19{
+#dosmil-23{
   display:none; 
 }
-#dosmil-20{
+#dosmil-24{
   display:none; 
 }
   /* BUTTON EFFECTS */
