@@ -32,9 +32,16 @@
   stroke: lightgray;
 }
 
-
-
-
+#content e{
+  text-align: center;
+}
+#map{
+  align-content: left;
+  width: 540px;
+}
+svg{
+  transform: scale(0.8);
+}
   /* MAPS */
 #dosmil-20{
     display:show; 
@@ -63,5 +70,10 @@
   border-color: #82c472;
   color: black;
   transition: 0.1s;
+}
+.on {
+  fill: pink;
+  stroke: red;
+  stroke-width: 2;
 }
 
